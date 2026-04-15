@@ -88,22 +88,35 @@ export const workData = [
     description: "Web Design",
     bg_Image: "/pharmacy.png",
     url: "https://pharmaease.vercel.app/",
-    github_url: "https://github.com/muhammadibrahim0998/pharmacy-app",
+    github_url: "",
   },
   {
     title: "Laptop shop",
     description: "Web Design",
     bg_Image: "/forloptop.png",
     // url: "https://nearbyrestaurant.netlify.app/",
-    github_url: "https://github.com/muhammadibrahim0998/online-laptop-store-",
+    github_url: "",
   },
   {
     title: "kicham fishing",
     description: "Web Design",
     bg_Image: "/kichamFishing.png",
     // url: "https://findgitpro.netlify.app/",
-    github_url:
-      "https://github.com/muhammadibrahim0998/kecham-project-for-fishing-",
+    github_url: "",
+  },
+  {
+    title: "Hospital management system Application",
+    description: "Web Design",
+    bg_Image: "/hospital.png",
+    url: "https://health-samarbagh.vercel.app/",
+    github_url: "https://health-samarbagh.vercel.app/",
+  },
+  {
+    title: "Super Store Application",
+    description: "Web Design",
+    bg_Image: "/superstore.png",
+    url: "https://nexflow-inventory.vercel.app/",
+    github_url: "https://nexflow-inventory.vercel.app/",
   },
 ];
 
